@@ -1,6 +1,6 @@
 # Projeto-Introdu-ao
 Introdução a programação Wudson (Ajustes )
 
-Matheus Oliveira de Camargo Cruz
+matheus Oliveira de Camargo 
 
-Giovanni Monteiro
+Giovanni Monteiro martins
